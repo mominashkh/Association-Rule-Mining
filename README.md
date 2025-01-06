@@ -45,3 +45,6 @@ Use Cases:
 2. Market Basket Analysis: Recommend complementary products.
 3. Movie Recommendations: Suggest movies based on user watch history.
 4. Customer Segmentation: Identify common purchase behaviors.
+
+
+Project Deployment: https://mominashkh.shinyapps.io/AssociationRuleMining/
